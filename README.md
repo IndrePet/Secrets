@@ -1,6 +1,6 @@
 # Secrets 🔒
 
-Practicing authentication methods using EJS templates, Express.js, MongoDB. 
+Practicing authentication methods using EJS templates, Express.js, MongoDB / Mongoose. 
 
 ## Learned about: 
 
